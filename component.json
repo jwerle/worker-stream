@@ -1,0 +1,17 @@
+{
+  "name": "worker-stream",
+  "repo": "jwerle/worker-stream",
+  "description": "Stream interface for web workers",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "juliangruber/through": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
