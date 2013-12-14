@@ -47,7 +47,7 @@ stream.write('foo');
 
 ## api
 
-#### WorkerStream(/*String|Worker*/ worker [, /*Object*/ opts])
+#### WorkerStream(worker [, opts])
 
 * `worker` - A string path to a worker or an instance of a `Worker`
 * `opts` - Stream options (optional)
